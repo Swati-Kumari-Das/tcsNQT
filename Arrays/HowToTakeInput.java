@@ -7,8 +7,7 @@ import java.util.*;
  * then reads n integers into an array,
  * and prints the array elements.
  * 
- * Author: Your Name
- * Date: 2026
+
  */
 
 public class Main {
